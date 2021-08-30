@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/NikGorbunov/goit-react-hw-01-components/static/css/main.06d2982e.chunk.css",
+    "main.js": "/NikGorbunov/goit-react-hw-01-components/static/js/main.f5ed5bf7.chunk.js",
+    "main.js.map": "/NikGorbunov/goit-react-hw-01-components/static/js/main.f5ed5bf7.chunk.js.map",
+    "runtime-main.js": "/NikGorbunov/goit-react-hw-01-components/static/js/runtime-main.feb9525f.js",
+    "runtime-main.js.map": "/NikGorbunov/goit-react-hw-01-components/static/js/runtime-main.feb9525f.js.map",
+    "static/js/2.1f8d16a1.chunk.js": "/NikGorbunov/goit-react-hw-01-components/static/js/2.1f8d16a1.chunk.js",
+    "static/js/2.1f8d16a1.chunk.js.map": "/NikGorbunov/goit-react-hw-01-components/static/js/2.1f8d16a1.chunk.js.map",
+    "index.html": "/NikGorbunov/goit-react-hw-01-components/index.html",
+    "static/css/main.06d2982e.chunk.css.map": "/NikGorbunov/goit-react-hw-01-components/static/css/main.06d2982e.chunk.css.map",
+    "static/js/2.1f8d16a1.chunk.js.LICENSE.txt": "/NikGorbunov/goit-react-hw-01-components/static/js/2.1f8d16a1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.feb9525f.js",
+    "static/js/2.1f8d16a1.chunk.js",
+    "static/css/main.06d2982e.chunk.css",
+    "static/js/main.f5ed5bf7.chunk.js"
+  ]
+}
